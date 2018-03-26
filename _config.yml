@@ -1,6 +1,6 @@
 # Site settings
-title: "Резюме Ларин А.А."
-description: "Резюме Ларин Алексей Александрович"
+title: "Р РµР·СЋРјРµ Р›Р°СЂРёРЅ Рђ.Рђ."
+description: "Р РµР·СЋРјРµ Р›Р°СЂРёРЅ РђР»РµРєСЃРµР№ РђР»РµРєСЃР°РЅРґСЂРѕРІРёС‡"
 
 # Build settings
 markdown: kramdown
@@ -10,14 +10,14 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Ларин Алексей Александрович"
-resume_title:                   "Java разработчик (Junior)"
+resume_name:                    "Р›Р°СЂРёРЅ РђР»РµРєСЃРµР№ РђР»РµРєСЃР°РЅРґСЂРѕРІРёС‡"
+resume_title:                   "Java СЂР°Р·СЂР°Р±РѕС‚С‡РёРє (Junior)"
 resume_contact_email:           "79300324898@yandex.ru"
 resume_contact_telephone:       "8-930-032-4898"
 resume_contact_address:         "742 Evergreen Terrace, Springfield"
 resume_header_contact_info: "742 Evergreen Terrace, Springfield | 555-7334 | homerjsimpson@youremailaddress.com"
-resume_header_intro: "<p>Трудоустроен, но в поисках работы.</p> 
-<p>Общий стаж по 1С более 3 лет.</p>"
+resume_header_intro: "<p>РўСЂСѓРґРѕСѓСЃС‚СЂРѕРµРЅ, РЅРѕ РІ РїРѕРёСЃРєР°С… СЂР°Р±РѕС‚С‹. </p> 
+<p>РћР±С‰РёР№ СЃС‚Р°Р¶ РїРѕ 1РЎ Р±РѕР»РµРµ 3 Р»РµС‚.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
