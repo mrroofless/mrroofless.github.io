@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Ларин Алексей Александрович"
-resume_title:                   "Java разработчик (Junior)"
+resume_title:                   "Java разработчик (Junior"
 resume_contact_email:           "79300324898@yandex.ru"
 resume_contact_telephone:       "8-930-032-4898"
 resume_contact_address:         ""
