@@ -15,7 +15,7 @@ resume_title:                   "Java разработчик (Junior)"
 resume_contact_email:           "79300324898@yandex.ru"
 resume_contact_telephone:       "8-930-032-4898"
 resume_contact_address:         "742 Evergreen Terrace, Springfield"
-resume_header_contact_info: "742 Evergreen Terrace, Springfield | 555-7334 | homerjsimpson@youremailaddress.com"
+resume_header_contact_info: "Владимир | 8-930-032-4898 | 79300324898@yandex.ru"
 resume_header_intro: "<p>Трудоустроен, но в поисках работы. </p> 
 <p>Общий стаж по 1С более 3 лет.</p>"
 
@@ -23,7 +23,7 @@ resume_header_intro: "<p>Трудоустроен, но в поисках раб
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
-resume_looking_for_work:        "no"
+resume_looking_for_work:        "yes"
 
 # Decide which sections to use
 # comment out to hide
@@ -34,15 +34,15 @@ resume_section_skills:          true
 resume_section_recognition:     true
 resume_section_links:           true
 resume_section_associations:    true
-# resume_section_interests:       true
+resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
-  # resume_facebook_url:          "insert Facebook URL here"
+  resume_github_url:            "https://github.com/mrroofless"
+  #resume_twitter_url:           "http://twitter.com/jglovier"
+  #resume_dribbble_url:          "https://dribbble.com/jag"
+  resume_facebook_url:          "https://www.facebook.com/mr.roofless"
   resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
   # resume_instagram_url:         "insert your Instagram URL here"
   resume_website_url:           "http://joelglovier.com"
