@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Резюме Ларин А.А."
+description: "Резюме Ларин Алексей Александрович"
 
 # Build settings
 markdown: kramdown
@@ -12,11 +12,12 @@ sass:
 resume_avatar:                  "true"
 resume_name:                    "Ларин Алексей Александрович"
 resume_title:                   "Java разработчик (Junior)"
-resume_contact_email:           "homerjsimpson@youremailaddress.com"
-resume_contact_telephone:       "555-7334"
+resume_contact_email:           "79300324898@yandex.ru"
+resume_contact_telephone:       "8-930-032-4898"
 resume_contact_address:         "742 Evergreen Terrace, Springfield"
 resume_header_contact_info: "742 Evergreen Terrace, Springfield | 555-7334 | homerjsimpson@youremailaddress.com"
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but K.I.S.S.</p>"
+resume_header_intro: "<p>Трудоустроен, но в поисках работы.</p> 
+<p>Общий стаж по 1С более 3 лет.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
