@@ -54,7 +54,7 @@
 
     .header-title {
       @include sans;
-      font-weight: 300;
+      font-weight: 1;
       font-size: 1.75rem;
       line-height: 2rem;
       letter-spacing: -.05rem;
@@ -114,7 +114,7 @@
   text-align: center;
   display: block;
   margin: 1.5rem auto;
-  width: 220px;
+  width: 22px;
   font-size: 1.375rem;
   @include sans_light;
   color: #333;
